@@ -1,0 +1,16 @@
+streamlit
+pandas
+numpy
+Pillow
+requests
+google-generativeai
+python-dotenv
+PyPDF2
+python-docx
+pytesseract
+plotly
+matplotlib
+seaborn
+google-api-python-client
+google-auth
+deep-translator
